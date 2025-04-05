@@ -9,7 +9,7 @@ The latest (20250405)unofficial-build Mohist 1.20.1 server built by a bigwig
 If you feel that this infringes upon your rights or unintentionally offends you, please raise an issue to contact me for removal.
 
 源代码(source code)： https://github.com/MohistMC/Mohist
-捐助原作者（donate Original Author）：https://opencollective.com/mohis
+捐助原作者（donate Original Author）：https://opencollective.com/mohist
 
 
 CRC32-    C96165E6
